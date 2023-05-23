@@ -1,0 +1,15 @@
+/Users/Admin/Desktop/Git/EstudoGit/gitCSharp/CSharpTriangulo/obj/Debug/net7.0/CSharpTriangulo.csproj.AssemblyReference.cache
+/Users/Admin/Desktop/Git/EstudoGit/gitCSharp/CSharpTriangulo/obj/Debug/net7.0/CSharpTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Admin/Desktop/Git/EstudoGit/gitCSharp/CSharpTriangulo/obj/Debug/net7.0/CSharpTriangulo.AssemblyInfoInputs.cache
+/Users/Admin/Desktop/Git/EstudoGit/gitCSharp/CSharpTriangulo/obj/Debug/net7.0/CSharpTriangulo.AssemblyInfo.cs
+/Users/Admin/Desktop/Git/EstudoGit/gitCSharp/CSharpTriangulo/obj/Debug/net7.0/CSharpTriangulo.csproj.CoreCompileInputs.cache
+/Users/Admin/Desktop/Git/EstudoGit/gitCSharp/CSharpTriangulo/bin/Debug/net7.0/CSharpTriangulo
+/Users/Admin/Desktop/Git/EstudoGit/gitCSharp/CSharpTriangulo/bin/Debug/net7.0/CSharpTriangulo.deps.json
+/Users/Admin/Desktop/Git/EstudoGit/gitCSharp/CSharpTriangulo/bin/Debug/net7.0/CSharpTriangulo.runtimeconfig.json
+/Users/Admin/Desktop/Git/EstudoGit/gitCSharp/CSharpTriangulo/bin/Debug/net7.0/CSharpTriangulo.dll
+/Users/Admin/Desktop/Git/EstudoGit/gitCSharp/CSharpTriangulo/bin/Debug/net7.0/CSharpTriangulo.pdb
+/Users/Admin/Desktop/Git/EstudoGit/gitCSharp/CSharpTriangulo/obj/Debug/net7.0/CSharpTriangulo.dll
+/Users/Admin/Desktop/Git/EstudoGit/gitCSharp/CSharpTriangulo/obj/Debug/net7.0/refint/CSharpTriangulo.dll
+/Users/Admin/Desktop/Git/EstudoGit/gitCSharp/CSharpTriangulo/obj/Debug/net7.0/CSharpTriangulo.pdb
+/Users/Admin/Desktop/Git/EstudoGit/gitCSharp/CSharpTriangulo/obj/Debug/net7.0/CSharpTriangulo.genruntimeconfig.cache
+/Users/Admin/Desktop/Git/EstudoGit/gitCSharp/CSharpTriangulo/obj/Debug/net7.0/ref/CSharpTriangulo.dll
